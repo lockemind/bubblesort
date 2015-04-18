@@ -1,4 +1,4 @@
-def bubblesort list
+def bubble_sort list
 
 	sorted = false
 	#tests if no switch was made 
